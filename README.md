@@ -56,8 +56,4 @@ A **Flask + MySQL web app** for managing student admissions.
 
 ---
 
-## 📫 Connect with Me  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/pradeeepta)  
-- 📧 pradeepta.panda@example.com  
 
-✨ *Always curious, always building.*  
