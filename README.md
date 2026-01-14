@@ -1,9 +1,6 @@
 # Hi, I'm Pradeepta 👋  
 
-🚀 Passionate about building scalable applications, secure systems, and innovative AI solutions.  
-🎯 Interests: Federated Learning, Blockchain, Web Development, and Distributed Systems.  
 
----
 
 ## 🔥 Featured Projects  
 
@@ -45,15 +42,6 @@ A **Flask + MySQL web app** for managing student admissions.
 - 👨‍💼 Admin dashboard with approval & record management  
 - 🎨 TailwindCSS + SweetAlert2 for modern UI  
 
----
 
-## ⚙️ Tech Stack  
-💻 **Languages:** Python, Java, JavaScript/TypeScript, Solidity  
-🛠️ **Frameworks & Tools:** Flask, Spring Boot, React, Next.js, Hardhat  
-🗄️ **Databases:** MySQL, MongoDB  
-📊 **DevOps & Monitoring:** Docker, Kafka, Grafana, Prometheus, Loki  
-🔐 **Specializations:** Federated Learning, Homomorphic Encryption, Blockchain  
-
----
 
 
